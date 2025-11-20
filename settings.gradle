@@ -1,0 +1,2 @@
+rootProject.name='asurascans-extension'
+include ':asurascans'
